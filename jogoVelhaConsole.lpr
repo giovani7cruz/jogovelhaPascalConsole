@@ -4,6 +4,8 @@ Criado pelo Prefessor Giovani Da Cruz
 https://giovanidacruz.com.br
 Jogo da Velha em modo console
 
+COMPILADO EM LAZARUS
+
 *)
 
 program jogoVelhaConsole;
