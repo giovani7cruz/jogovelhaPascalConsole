@@ -2,7 +2,8 @@
 
 Programa simples para jogar o jogo da velha em modo console.
 Criado pelo Professor Giovani Da Cruz
-[https://giovanidacruz.com.br](https://giovanidacruz.com.br)
+
+Post completo em [giovanidacruz.com.br/jogo-da-velha-em-pascal-no-modo-console](https://giovanidacruz.com.br/jogo-da-velha-em-pascal-no-modo-console/)
 
 COMPILADO EM LAZARUS   
 Também é possivel executar no site [www.onlinegdb.com](https://www.onlinegdb.com/online_pascal_compiler)
@@ -17,7 +18,7 @@ Conteúdos
 * Variáveis e Constantes;
 * Desvio Condicional (Comando "Se / IF"  simples e composto com o uso de "e / and ");
 * Procedimentos e Funções dentro do programa;
-* Parametros em funções;
+* Parâmetros em funções;
 * Laços de Repetição (Enquanto / While, Repita / Repeat e Para / For)
 * Matrizes e Vetores (array)
 
