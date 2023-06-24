@@ -79,9 +79,9 @@ begin
      (coluna >= 1) and
      (coluna <= TAMANHO_TABULEIRO) and
      (tabuleiro[linha, coluna] = ' ') then
-    Result := True
+    JogadaValida := True      //Result Adequação para compilar no www.onlinegdb.com
   else
-    Result := False;
+    JogadaValida := False;    //Result Adequação para compilar no www.onlinegdb.com
 end;
 
 function VerificarVitoria(const tabuleiro: Tabuleiro; simbolo: Char): Boolean;
@@ -117,7 +117,7 @@ begin
      (tabuleiro[3, 1] = simbolo) then
     Exit(True);
 
-  Result := False;
+  VerificarVitoria := False; //Result Adequação para compilar no www.onlinegdb.com
 end;
 
 function TabuleiroCompleto(const tabuleiro: Tabuleiro): Boolean;
@@ -133,7 +133,7 @@ begin
     end;
   end;
 
-  Result := True;
+  TabuleiroCompleto := True; //Result Adequação para compilar no www.onlinegdb.com
 end;
 
 procedure EfetuarJogadaIA(var tabuleiro: Tabuleiro; linha, coluna: Integer);
