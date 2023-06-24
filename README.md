@@ -2,8 +2,10 @@
 
 Programa simples para jogar o jogo da velha em modo console.
 Criado pelo Professor Giovani Da Cruz
+[https://giovanidacruz.com.br](https://giovanidacruz.com.br)
 
 COMPILADO EM LAZARUS   
+Também é possivel executar no site [www.onlinegdb.com](https://www.onlinegdb.com/online_pascal_compiler)
 
 Um ótimo exemplo de trabalho de fim de semestre de algoritmos
 ou programação básica.
