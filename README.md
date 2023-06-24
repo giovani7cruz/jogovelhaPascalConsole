@@ -3,6 +3,8 @@
 Programa simples para jogar o jogo da velha em modo console.
 Criado pelo Professor Giovani Da Cruz
 
+COMPILADO EM LAZARUS   
+
 Um ótimo exemplo de trabalho de fim de semestre de algoritmos
 ou programação básica.
 
